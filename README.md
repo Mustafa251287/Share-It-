@@ -48,4 +48,30 @@ This project demonstrates advanced Android concepts:
 3.  Build and run the project on a connected Android device or emulator.
 
 ## 🔧 Code Structure
+ShareIt/
+├── .gitignore
+├── LICENSE
+├── README.md
+└── src/
+    └── main/
+        └── java/
+            └── com/
+                └── sharing/
+                    └── files/
+                        ├── MainActivity.java      # Entry point of the application
+                        ├── ReceiveActivity.java   # Handles the file receiving logic & UI
+                        ├── SendActivity.java      # Handles the file sending logic & UI
+                        ├── SendingActivity.java   # (Likely) Manages the ongoing sending process
+                        └── Capture.java           # (Likely) Utility for taking photos/videos to share
 
+## 🤝 Contributing
+
+This is a personal project for my portfolio, but suggestions and ideas are always welcome. Feel free to fork the repo and submit a pull request.
+
+---
+
+<div align="center">
+
+**Built with ❤️ using Java and Android SDK**
+
+</div>
