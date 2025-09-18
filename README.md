@@ -48,6 +48,7 @@ This project demonstrates advanced Android concepts:
 3.  Build and run the project on a connected Android device or emulator.
 
 ## 🔧 Code Structure
+'''
 ShareIt/
 ├── .gitignore
 ├── LICENSE
@@ -63,6 +64,7 @@ ShareIt/
                         ├── SendActivity.java      # Handles the file sending logic & UI
                         ├── SendingActivity.java   # (Likely) Manages the ongoing sending process
                         └── Capture.java           # (Likely) Utility for taking photos/videos to share
+'''
 
 ## 🤝 Contributing
 
